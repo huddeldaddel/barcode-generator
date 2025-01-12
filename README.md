@@ -1,4 +1,4 @@
-[![Java CI with Maven](https://github.com/huddeldaddel/barcode/actions/workflows/maven.yml/badge.svg)](https://github.com/huddeldaddel/barcode/actions/workflows/maven.yml)
+[![CI](https://github.com/huddeldaddel/barcode-generator/actions/workflows/maven.yml/badge.svg)](https://github.com/huddeldaddel/barcode-generator/actions/workflows/maven.yml)
 
 # Barcode-Generator
 
