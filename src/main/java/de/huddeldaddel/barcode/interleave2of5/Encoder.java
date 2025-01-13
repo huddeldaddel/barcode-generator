@@ -9,7 +9,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * Encodes input as Interleave 2 of 5 barcode.
+ * Encodes input as Interleaved 2 of 5 barcode.
  * 
  * @author Jerred Shepherd
  * @author Thomas Werner

@@ -14,7 +14,8 @@ Example 1: Start without parameters to see help message
 
 ```
 $ java -jar barcode-generator-1.0.jar 
-usage: barcode
+usage: Barcode
+ -checksum       add checksum
  -height <arg>   bar height in px
  -margin <arg>   border width in px
  -out <arg>      output file
